@@ -1,0 +1,283 @@
+<?xml version="1.0" ?>
+<info>
+    <user name="孙恒" id="021-215321" customerNO="ECIF0011" cardNO="62170031" mobile="13918381512,021-50202418" level="1" email="sunheng@jrseac.com" nebor="2">
+        <son name="童秋君" id="33022717790814056" customerNO="ECIF0082" cardNO="62170102" mobile="13989308173,-" level="2" linkType="CARDNO,MOBILE" email="tongchristin@hotmail.com" />
+        <father name="童秋君" id="33022717790814056" customerNO="ECIF0082" cardNO="62170102" mobile="13989308173,-" level="2" linkType="CARDNO,MOBILE" email="tongchristin@hotmail.com" />
+    </user>
+    <user name="王莹" id="021-224321" customerNO="ECIF0012" cardNO="62170032" mobile="21224,021-69136448/247" level="1" email="y.wang@argus.net.cn" nebor="2">
+        <son name="李茂瑞" id="372833731115061" customerNO="ECIF0081" cardNO="62170101" mobile="15980920503,-" level="2" linkType="CARDNO,MOBILE" email="HEROLI0988@YAHOO.COM.CN" />
+        <father name="李茂瑞" id="372833731115061" customerNO="ECIF0081" cardNO="62170101" mobile="15980920503,-" level="2" linkType="CARDNO,MOBILE" email="HEROLI0988@YAHOO.COM.CN" />
+    </user>
+    <user name="张彗" id="021-243321" customerNO="ECIF0013" cardNO="62170033" mobile="21243,021-68860643*8103" level="1" email="yvonne.zhang@cn.bureauveritas.com " nebor="2">
+        <son name="薛立伟" id="22072419811019021x" customerNO="ECIF0080" cardNO="62170100" mobile="13810348400,-" level="2" linkType="CARDNO,MOBILE" email="5868322@163.com" />
+        <father name="薛立伟" id="22072419811019021x" customerNO="ECIF0080" cardNO="62170100" mobile="13810348400,-" level="2" linkType="CARDNO,MOBILE" email="5868322@163.com" />
+    </user>
+    <user name="蒋昭红" id="021-293321" customerNO="ECIF0014" cardNO="62170034" mobile="13801837369,021-62476887" level="1" email="jiangzhaohong@51shsd.com" nebor="2">
+        <son name="徐磊" id="210202198110151213" customerNO="ECIF0079" cardNO="62170099" mobile="13940990151,0411-82666567" level="2" linkType="CARDNO,MOBILE" email="leo_xu@dl.cn" />
+        <father name="徐磊" id="210202198110151213" customerNO="ECIF0079" cardNO="62170099" mobile="13940990151,0411-82666567" level="2" linkType="CARDNO,MOBILE" email="leo_xu@dl.cn" />
+    </user>
+    <user name="陈瑶" id="021-345321" customerNO="ECIF0015" cardNO="62170035" mobile="21345,021-64400575" level="1" email="" nebor="2">
+        <son name="姜艳彬" id="230521198112022713" customerNO="ECIF0078" cardNO="62170098" mobile="13795189595,-" level="2" linkType="CARDNO,MOBILE" email="jyb_613@163.com" />
+        <father name="姜艳彬" id="230521198112022713" customerNO="ECIF0078" cardNO="62170098" mobile="13795189595,-" level="2" linkType="CARDNO,MOBILE" email="jyb_613@163.com" />
+    </user>
+    <user name="张峥" id="027-108321" customerNO="ECIF0016" cardNO="62170036" mobile="27108,027-87196373" level="1" email="zhangz@hbsanhuan.com.cn " nebor="2">
+        <son name="陈伟" id="320107197208164212" customerNO="ECIF0077" cardNO="62170097" mobile="13816333169,-" level="2" linkType="CARDNO,MOBILE" email="roger0816@126.com" />
+        <father name="陈伟" id="320107197208164212" customerNO="ECIF0077" cardNO="62170097" mobile="13816333169,-" level="2" linkType="CARDNO,MOBILE" email="roger0816@126.com" />
+    </user>
+    <user name="冯彬玲" id="029-107321" customerNO="ECIF0017" cardNO="62170037" mobile="29107,029-87669400-211" level="1" email="sarah_feng@newsoft.com.cn " nebor="2">
+        <son name="戚长鹤" id="362101198112180010" customerNO="ECIF0076" cardNO="62170096" mobile="13870774167,-" level="2" linkType="CARDNO,MOBILE" email="qchaini@163.com" />
+        <father name="戚长鹤" id="362101198112180010" customerNO="ECIF0076" cardNO="62170096" mobile="13870774167,-" level="2" linkType="CARDNO,MOBILE" email="qchaini@163.com" />
+    </user>
+    <user name="叶鹏来" id="0510-106321" customerNO="ECIF0018" cardNO="62170038" mobile="510106,0510-81018859" level="1" email="ypl@bcstainless.com " nebor="2">
+        <son name="顾佳佳" id="310109830919456" customerNO="ECIF0075" cardNO="62170095" mobile="13817353288,-" level="2" linkType="CARDNO,MOBILE" email="ahergongzhu@hotmail.com" />
+        <father name="顾佳佳" id="310109830919456" customerNO="ECIF0075" cardNO="62170095" mobile="13817353288,-" level="2" linkType="CARDNO,MOBILE" email="ahergongzhu@hotmail.com" />
+    </user>
+    <user name="陈曦" id="0531-101321" customerNO="ECIF0019" cardNO="62170039" mobile="531101,0531-82963478*6350" level="1" email="chen_xi@cvicse.com" nebor="2">
+        <son name="徐旸" id="430103197302221519" customerNO="ECIF0074" cardNO="62170094" mobile="13925066016,-" level="2" linkType="CARDNO,MOBILE" email="xutommy1219@yahoo.com.cn" />
+        <father name="徐旸" id="430103197302221519" customerNO="ECIF0074" cardNO="62170094" mobile="13925066016,-" level="2" linkType="CARDNO,MOBILE" email="xutommy1219@yahoo.com.cn" />
+    </user>
+    <user name="王惠兰" id="0571-120321" customerNO="ECIF0020" cardNO="62170040" mobile="571120,0571-22817277" level="1" email="amanda@ztex.cn " nebor="2">
+        <son name="胡美娜" id="340402198402081229" customerNO="ECIF0073" cardNO="62170093" mobile="13601320994,-" level="2" linkType="CARDNO,MOBILE" email="haoxinqing2010@163.com" />
+        <father name="胡美娜" id="340402198402081229" customerNO="ECIF0073" cardNO="62170093" mobile="13601320994,-" level="2" linkType="CARDNO,MOBILE" email="haoxinqing2010@163.com" />
+    </user>
+    <user name="陈效" id="0571-124321" customerNO="ECIF0021" cardNO="62170041" mobile="571124,0571-89986970" level="1" email="llcx2002@163.com " nebor="2">
+        <son name="赵梦溪" id="410103198303082427" customerNO="ECIF0072" cardNO="62170092" mobile="13608691642,-" level="2" linkType="CARDNO,MOBILE" email="296170582@qq.com" />
+        <father name="赵梦溪" id="410103198303082427" customerNO="ECIF0072" cardNO="62170092" mobile="13608691642,-" level="2" linkType="CARDNO,MOBILE" email="296170582@qq.com" />
+    </user>
+    <user name="裴芬" id="0571-125321" customerNO="ECIF0022" cardNO="62170042" mobile="571125,0571-28990084" level="1" email="fenpi8499@sina.com " nebor="2">
+        <son name="charlie chu" id="483823476" customerNO="ECIF0071" cardNO="62170091" mobile="18018674090,-02164641680" level="2" linkType="CARDNO,MOBILE" email="chuchar123@yahoo.com" />
+        <father name="charlie chu" id="483823476" customerNO="ECIF0071" cardNO="62170091" mobile="18018674090,-02164641680" level="2" linkType="CARDNO,MOBILE" email="chuchar123@yahoo.com" />
+    </user>
+    <user name="孙旸" id="310104198405232812" customerNO="ECIF0024" cardNO="62170044" mobile="13764090424,-" level="1" email="gemini9991@gmail.com" nebor="2">
+        <son name="曹彦彬" id="150425197812160039" customerNO="ECIF0069" cardNO="62170089" mobile="13910309687,-" level="2" linkType="CARDNO,MOBILE" email="allen2039@163.com" />
+        <father name="曹彦彬" id="150425197812160039" customerNO="ECIF0069" cardNO="62170089" mobile="13910309687,-" level="2" linkType="CARDNO,MOBILE" email="allen2039@163.com" />
+    </user>
+    <user name="jingjing" id="420105197404030028" customerNO="ECIF0025" cardNO="62170045" mobile="15871377772,027-88219588" level="1" email="74jingjing@163.com" nebor="2">
+        <son name="刘博莹" id="411323198410140028" customerNO="ECIF0068" cardNO="62170088" mobile="13663057666,-" level="2" linkType="CARDNO,MOBILE" email="lby2621@163.com" />
+        <father name="刘博莹" id="411323198410140028" customerNO="ECIF0068" cardNO="62170088" mobile="13663057666,-" level="2" linkType="CARDNO,MOBILE" email="lby2621@163.com" />
+    </user>
+    <user name="潘国鹏" id="370683198103193217" customerNO="ECIF0026" cardNO="62170046" mobile="13561928865,0633-2212069" level="1" email="ipavee@163.com" nebor="2">
+        <son name="刘泓" id="320106630913202" customerNO="ECIF0067" cardNO="62170087" mobile="13913010929,-" level="2" linkType="CARDNO,MOBILE" email="li8337@126.com" />
+        <father name="刘泓" id="320106630913202" customerNO="ECIF0067" cardNO="62170087" mobile="13913010929,-" level="2" linkType="CARDNO,MOBILE" email="li8337@126.com" />
+    </user>
+    <user name="徐争鸣" id="420106196809074071" customerNO="ECIF0027" cardNO="62170047" mobile="13396056892,027-88112719" level="1" email="zhengming_xu520@sina.com.cn" nebor="2">
+        <son name="范玲敏" id="320684198011174947" customerNO="ECIF0066" cardNO="62170086" mobile="13921662365,0513-82211065" level="2" linkType="CARDNO,MOBILE" email="fan2210@sina.com" />
+        <father name="范玲敏" id="320684198011174947" customerNO="ECIF0066" cardNO="62170086" mobile="13921662365,0513-82211065" level="2" linkType="CARDNO,MOBILE" email="fan2210@sina.com" />
+    </user>
+    <user name="陈妍" id="210212831019104" customerNO="ECIF0028" cardNO="62170048" mobile="15942693196,-" level="1" email="cy_1019@hotmail.com" nebor="2">
+        <son name="张百刚" id="32030219760511201x" customerNO="ECIF0065" cardNO="62170085" mobile="13327946880,-" level="2" linkType="CARDNO,MOBILE" email="xzzhbg@126.com" />
+        <father name="张百刚" id="32030219760511201x" customerNO="ECIF0065" cardNO="62170085" mobile="13327946880,-" level="2" linkType="CARDNO,MOBILE" email="xzzhbg@126.com" />
+    </user>
+    <user name="吴晓龙" id="360430198405111111" customerNO="ECIF0029" cardNO="62170049" mobile="13916082774,-" level="1" email="velax_wu@sohu.com" nebor="2">
+        <son name="李亚辉" id="43010319651007167X" customerNO="ECIF0064" cardNO="62170084" mobile="13510381278,-" level="2" linkType="CARDNO,MOBILE" email="lyahui@sogou.com" />
+        <father name="李亚辉" id="43010319651007167X" customerNO="ECIF0064" cardNO="62170084" mobile="13510381278,-" level="2" linkType="CARDNO,MOBILE" email="lyahui@sogou.com" />
+    </user>
+    <user name="王洵" id="320502197310210545" customerNO="ECIF0030" cardNO="62170050" mobile="13915503066,-" level="1" email="zd.wh@163.com" nebor="2">
+        <son name="王炎" id="320811198401011514" customerNO="ECIF0063" cardNO="62170083" mobile="13805239035,0517-83669209" level="2" linkType="CARDNO,MOBILE" email="murenwy@163.com" />
+        <father name="王炎" id="320811198401011514" customerNO="ECIF0063" cardNO="62170083" mobile="13805239035,0517-83669209" level="2" linkType="CARDNO,MOBILE" email="murenwy@163.com" />
+    </user>
+    <user name="周建华" id="320602196511302041" customerNO="ECIF0031" cardNO="62170051" mobile="13817627228,021-52682026" level="1" email="hd6418@hotmail.com" nebor="2">
+        <son name="谷晨蕊" id="110102198101160020" customerNO="ECIF0062" cardNO="62170082" mobile="13511071926,-" level="2" linkType="CARDNO,MOBILE" email="gcr816@hotmail.com" />
+        <father name="谷晨蕊" id="110102198101160020" customerNO="ECIF0062" cardNO="62170082" mobile="13511071926,-" level="2" linkType="CARDNO,MOBILE" email="gcr816@hotmail.com" />
+    </user>
+    <user name="王蓉蓉" id="610104198212296167" customerNO="ECIF0032" cardNO="62170052" mobile="15809225561,029-88228743" level="1" email="228302198@qq.com" nebor="2">
+        <son name="秦佳" id="320281198708225035" customerNO="ECIF0061" cardNO="62170081" mobile="13851728224,-" level="2" linkType="CARDNO,MOBILE" email="qinjia1987js@163.com" />
+        <father name="秦佳" id="320281198708225035" customerNO="ECIF0061" cardNO="62170081" mobile="13851728224,-" level="2" linkType="CARDNO,MOBILE" email="qinjia1987js@163.com" />
+    </user>
+    <user name="于泳" id="510212197001300311" customerNO="ECIF0033" cardNO="62170053" mobile="13020151291,-" level="1" email="hnch@sohu.com" nebor="2">
+        <son name="谷鹏" id="210602197910273515" customerNO="ECIF0060" cardNO="62170080" mobile="13520704123,-" level="2" linkType="CARDNO,MOBILE" email="gupeng@mail.buct.edu.cn" />
+        <father name="谷鹏" id="210602197910273515" customerNO="ECIF0060" cardNO="62170080" mobile="13520704123,-" level="2" linkType="CARDNO,MOBILE" email="gupeng@mail.buct.edu.cn" />
+    </user>
+    <user name="袁满" id="510104197601230278" customerNO="ECIF0034" cardNO="62170054" mobile="13331119399,-" level="1" email="manyuan123@vip.sina.com" nebor="2">
+        <son name="杜俊国" id="430111198610010750" customerNO="ECIF0059" cardNO="62170079" mobile="13811131573,-" level="2" linkType="CARDNO,MOBILE" email="woaini_zhaoqi@163.com" />
+        <father name="杜俊国" id="430111198610010750" customerNO="ECIF0059" cardNO="62170079" mobile="13811131573,-" level="2" linkType="CARDNO,MOBILE" email="woaini_zhaoqi@163.com" />
+    </user>
+    <user name="胡坤" id="212959748" customerNO="ECIF0035" cardNO="62170055" mobile="886921881249,-" level="1" email="hukunk@yahoo.com.tw" nebor="2">
+        <son name="蔡涛" id="510702197504251237" customerNO="ECIF0058" cardNO="62170078" mobile="18980028019," level="2" linkType="CARDNO,MOBILE" email="" />
+        <father name="蔡涛" id="510702197504251237" customerNO="ECIF0058" cardNO="62170078" mobile="18980028019," level="2" linkType="CARDNO,MOBILE" email="" />
+    </user>
+    <user name="石" id="310105820907209" customerNO="ECIF0036" cardNO="62170056" mobile="13501880996,-" level="1" email="ericshi0907@hotmail.com" nebor="2">
+        <son name="李益全" id="0490414202" customerNO="ECIF0057" cardNO="62170077" mobile="18918801689,18918801689" level="2" linkType="CARDNO,MOBILE" email="18918801689@189.CN" />
+        <father name="李益全" id="0490414202" customerNO="ECIF0057" cardNO="62170077" mobile="18918801689,18918801689" level="2" linkType="CARDNO,MOBILE" email="18918801689@189.CN" />
+    </user>
+    <user name="朱为准" id="330302198403275618" customerNO="ECIF0037" cardNO="62170057" mobile="15821178545,-" level="1" email="zhuweizhun@163.com" nebor="2">
+        <son name="罗洁" id="330602198307111521" customerNO="ECIF0056" cardNO="62170076" mobile="13857525378,-" level="2" linkType="CARDNO,MOBILE" email="fanny7450@hotmail.com" />
+        <father name="罗洁" id="330602198307111521" customerNO="ECIF0056" cardNO="62170076" mobile="13857525378,-" level="2" linkType="CARDNO,MOBILE" email="fanny7450@hotmail.com" />
+    </user>
+    <user name="钟敏" id="310109198401104575" customerNO="ECIF0038" cardNO="62170058" mobile=",13816757896" level="1" email="" nebor="2">
+        <son name="张可夫" id="620104830202111" customerNO="ECIF0055" cardNO="62170075" mobile="15830450054,-" level="2" linkType="CARDNO,MOBILE" email="kefuu@163.com" />
+        <father name="张可夫" id="620104830202111" customerNO="ECIF0055" cardNO="62170075" mobile="15830450054,-" level="2" linkType="CARDNO,MOBILE" email="kefuu@163.com" />
+    </user>
+    <user name="徐海峰" id="32092219720416241x" customerNO="ECIF0039" cardNO="62170059" mobile="13905113599,-" level="1" email="jsslxhf@sina.com" nebor="2">
+        <son name="张文" id="330282198801219175" customerNO="ECIF0054" cardNO="62170074" mobile="," level="2" linkType="CARDNO,MOBILE" email="" />
+        <father name="张文" id="330282198801219175" customerNO="ECIF0054" cardNO="62170074" mobile="," level="2" linkType="CARDNO,MOBILE" email="" />
+    </user>
+    <user name="王潇荔" id="230302801118472" customerNO="ECIF0040" cardNO="62170060" mobile="13061402829,-" level="1" email="mulian@sohu.com" nebor="2">
+        <son name="齐凌宇" id="350103197802271512" customerNO="ECIF0053" cardNO="62170073" mobile="13817759566,-" level="2" linkType="CARDNO,MOBILE" email="dienqi@163.com" />
+        <father name="齐凌宇" id="350103197802271512" customerNO="ECIF0053" cardNO="62170073" mobile="13817759566,-" level="2" linkType="CARDNO,MOBILE" email="dienqi@163.com" />
+    </user>
+    <user name="种亚男" id="110103197809221521" customerNO="ECIF0041" cardNO="62170061" mobile="13438009040,-" level="1" email="nan2222@sohu.com" nebor="2">
+        <son name="于银学" id="230103830213221" customerNO="ECIF0052" cardNO="62170072" mobile="13811490900,-" level="2" linkType="CARDNO,MOBILE" email="yuyinxue_HLJ@hotmail.com" />
+        <father name="于银学" id="230103830213221" customerNO="ECIF0052" cardNO="62170072" mobile="13811490900,-" level="2" linkType="CARDNO,MOBILE" email="yuyinxue_HLJ@hotmail.com" />
+    </user>
+    <user name="唐杰" id="34270119671002045" customerNO="ECIF0042" cardNO="62170062" mobile="15905599970,0559-2517799" level="2" email="tjfyp67@sina.com" nebor="2">
+        <son name="韩德胜" id="110108730722571" customerNO="ECIF0051" cardNO="62170071" mobile="13801953210,-" level="2" linkType="CARDNO,MOBILE" email="rhzpy@hotmail.com" />
+        <father name="韩德胜" id="110108730722571" customerNO="ECIF0051" cardNO="62170071" mobile="13801953210,-" level="2" linkType="CARDNO,MOBILE" email="rhzpy@hotmail.com" />
+    </user>
+    <user name="付义平" id="362202198112230315" customerNO="ECIF0043" cardNO="62170063" mobile="13564365896,-" level="2" email="fuyiping3222@sina.com.cn" nebor="2">
+        <son name="姚汉春" id="320902197805013537" customerNO="ECIF0050" cardNO="62170070" mobile="13851082212,0515-88555600" level="2" linkType="CARDNO,MOBILE" email="yaodavy@163.com" />
+        <father name="姚汉春" id="320902197805013537" customerNO="ECIF0050" cardNO="62170070" mobile="13851082212,0515-88555600" level="2" linkType="CARDNO,MOBILE" email="yaodavy@163.com" />
+    </user>
+    <user name="鲁雅萍" id="310104198411216843" customerNO="ECIF0044" cardNO="62170064" mobile="13817546366,-" level="2" email="emily841121@hotmail.com" nebor="2">
+        <son name="尹崇博" id="210423198101010032" customerNO="ECIF0049" cardNO="62170069" mobile="13917312949,021-55071744" level="2" linkType="CARDNO,MOBILE" email="yinchbo@yahoo.com.cn" />
+        <father name="尹崇博" id="210423198101010032" customerNO="ECIF0049" cardNO="62170069" mobile="13917312949,021-55071744" level="2" linkType="CARDNO,MOBILE" email="yinchbo@yahoo.com.cn" />
+    </user>
+    <user name="陈爱武" id="452423198009072843" customerNO="ECIF0045" cardNO="62170065" mobile="13510119286,-" level="2" email="candy.chen@elcoteq.com" nebor="2">
+        <son name="董明" id="362334197910255316" customerNO="ECIF0048" cardNO="62170068" mobile="13564201164,-" level="2" linkType="CARDNO,MOBILE" email="dmqianlicao@163.com" />
+        <father name="董明" id="362334197910255316" customerNO="ECIF0048" cardNO="62170068" mobile="13564201164,-" level="2" linkType="CARDNO,MOBILE" email="dmqianlicao@163.com" />
+    </user>
+    <user name="梁湘" id="460100197408010628" customerNO="ECIF0046" cardNO="62170066" mobile="13876011768,-" level="2" email="dundunbaby@hotmail.com" nebor="2">
+        <son name="鲍晨飞" id="330402197906030939" customerNO="ECIF0047" cardNO="62170067" mobile="," level="2" linkType="CARDNO,MOBILE" email="" />
+        <father name="鲍晨飞" id="330402197906030939" customerNO="ECIF0047" cardNO="62170067" mobile="," level="2" linkType="CARDNO,MOBILE" email="" />
+    </user>
+    <user name="鲍晨飞" id="330402197906030939" customerNO="ECIF0047" cardNO="62170067" mobile="," level="2" email="" nebor="2">
+        <son name="梁湘" id="460100197408010628" customerNO="ECIF0046" cardNO="62170066" mobile="13876011768,-" level="2" linkType="CARDNO,MOBILE" email="dundunbaby@hotmail.com" />
+        <father name="梁湘" id="460100197408010628" customerNO="ECIF0046" cardNO="62170066" mobile="13876011768,-" level="2" linkType="CARDNO,MOBILE" email="dundunbaby@hotmail.com" />
+    </user>
+    <user name="董明" id="362334197910255316" customerNO="ECIF0048" cardNO="62170068" mobile="13564201164,-" level="2" email="dmqianlicao@163.com" nebor="2">
+        <son name="陈爱武" id="452423198009072843" customerNO="ECIF0045" cardNO="62170065" mobile="13510119286,-" level="2" linkType="CARDNO,MOBILE" email="candy.chen@elcoteq.com" />
+        <father name="陈爱武" id="452423198009072843" customerNO="ECIF0045" cardNO="62170065" mobile="13510119286,-" level="2" linkType="CARDNO,MOBILE" email="candy.chen@elcoteq.com" />
+    </user>
+    <user name="尹崇博" id="210423198101010032" customerNO="ECIF0049" cardNO="62170069" mobile="13917312949,021-55071744" level="2" email="yinchbo@yahoo.com.cn" nebor="2">
+        <son name="鲁雅萍" id="310104198411216843" customerNO="ECIF0044" cardNO="62170064" mobile="13817546366,-" level="2" linkType="CARDNO,MOBILE" email="emily841121@hotmail.com" />
+        <father name="鲁雅萍" id="310104198411216843" customerNO="ECIF0044" cardNO="62170064" mobile="13817546366,-" level="2" linkType="CARDNO,MOBILE" email="emily841121@hotmail.com" />
+    </user>
+    <user name="姚汉春" id="320902197805013537" customerNO="ECIF0050" cardNO="62170070" mobile="13851082212,0515-88555600" level="2" email="yaodavy@163.com" nebor="2">
+        <son name="付义平" id="362202198112230315" customerNO="ECIF0043" cardNO="62170063" mobile="13564365896,-" level="2" linkType="CARDNO,MOBILE" email="fuyiping3222@sina.com.cn" />
+        <father name="付义平" id="362202198112230315" customerNO="ECIF0043" cardNO="62170063" mobile="13564365896,-" level="2" linkType="CARDNO,MOBILE" email="fuyiping3222@sina.com.cn" />
+    </user>
+    <user name="韩德胜" id="110108730722571" customerNO="ECIF0051" cardNO="62170071" mobile="13801953210,-" level="2" email="rhzpy@hotmail.com" nebor="2">
+        <son name="唐杰" id="34270119671002045" customerNO="ECIF0042" cardNO="62170062" mobile="15905599970,0559-2517799" level="2" linkType="CARDNO,MOBILE" email="tjfyp67@sina.com" />
+        <father name="唐杰" id="34270119671002045" customerNO="ECIF0042" cardNO="62170062" mobile="15905599970,0559-2517799" level="2" linkType="CARDNO,MOBILE" email="tjfyp67@sina.com" />
+    </user>
+    <user name="于银学" id="230103830213221" customerNO="ECIF0052" cardNO="62170072" mobile="13811490900,-" level="2" email="yuyinxue_HLJ@hotmail.com" nebor="2">
+        <son name="种亚男" id="110103197809221521" customerNO="ECIF0041" cardNO="62170061" mobile="13438009040,-" level="1" linkType="CARDNO,MOBILE" email="nan2222@sohu.com" />
+        <father name="种亚男" id="110103197809221521" customerNO="ECIF0041" cardNO="62170061" mobile="13438009040,-" level="1" linkType="CARDNO,MOBILE" email="nan2222@sohu.com" />
+    </user>
+    <user name="齐凌宇" id="350103197802271512" customerNO="ECIF0053" cardNO="62170073" mobile="13817759566,-" level="2" email="dienqi@163.com" nebor="2">
+        <son name="王潇荔" id="230302801118472" customerNO="ECIF0040" cardNO="62170060" mobile="13061402829,-" level="1" linkType="CARDNO,MOBILE" email="mulian@sohu.com" />
+        <father name="王潇荔" id="230302801118472" customerNO="ECIF0040" cardNO="62170060" mobile="13061402829,-" level="1" linkType="CARDNO,MOBILE" email="mulian@sohu.com" />
+    </user>
+    <user name="张文" id="330282198801219175" customerNO="ECIF0054" cardNO="62170074" mobile="," level="2" email="" nebor="2">
+        <son name="徐海峰" id="32092219720416241x" customerNO="ECIF0039" cardNO="62170059" mobile="13905113599,-" level="1" linkType="CARDNO,MOBILE" email="jsslxhf@sina.com" />
+        <father name="徐海峰" id="32092219720416241x" customerNO="ECIF0039" cardNO="62170059" mobile="13905113599,-" level="1" linkType="CARDNO,MOBILE" email="jsslxhf@sina.com" />
+    </user>
+    <user name="张可夫" id="620104830202111" customerNO="ECIF0055" cardNO="62170075" mobile="15830450054,-" level="2" email="kefuu@163.com" nebor="2">
+        <son name="钟敏" id="310109198401104575" customerNO="ECIF0038" cardNO="62170058" mobile=",13816757896" level="1" linkType="CARDNO,MOBILE" email="" />
+        <father name="钟敏" id="310109198401104575" customerNO="ECIF0038" cardNO="62170058" mobile=",13816757896" level="1" linkType="CARDNO,MOBILE" email="" />
+    </user>
+    <user name="罗洁" id="330602198307111521" customerNO="ECIF0056" cardNO="62170076" mobile="13857525378,-" level="2" email="fanny7450@hotmail.com" nebor="2">
+        <son name="朱为准" id="330302198403275618" customerNO="ECIF0037" cardNO="62170057" mobile="15821178545,-" level="1" linkType="CARDNO,MOBILE" email="zhuweizhun@163.com" />
+        <father name="朱为准" id="330302198403275618" customerNO="ECIF0037" cardNO="62170057" mobile="15821178545,-" level="1" linkType="CARDNO,MOBILE" email="zhuweizhun@163.com" />
+    </user>
+    <user name="李益全" id="0490414202" customerNO="ECIF0057" cardNO="62170077" mobile="18918801689,18918801689" level="2" email="18918801689@189.CN" nebor="2">
+        <son name="石" id="310105820907209" customerNO="ECIF0036" cardNO="62170056" mobile="13501880996,-" level="1" linkType="CARDNO,MOBILE" email="ericshi0907@hotmail.com" />
+        <father name="石" id="310105820907209" customerNO="ECIF0036" cardNO="62170056" mobile="13501880996,-" level="1" linkType="CARDNO,MOBILE" email="ericshi0907@hotmail.com" />
+    </user>
+    <user name="蔡涛" id="510702197504251237" customerNO="ECIF0058" cardNO="62170078" mobile="18980028019," level="2" email="" nebor="2">
+        <son name="胡坤" id="212959748" customerNO="ECIF0035" cardNO="62170055" mobile="886921881249,-" level="1" linkType="CARDNO,MOBILE" email="hukunk@yahoo.com.tw" />
+        <father name="胡坤" id="212959748" customerNO="ECIF0035" cardNO="62170055" mobile="886921881249,-" level="1" linkType="CARDNO,MOBILE" email="hukunk@yahoo.com.tw" />
+    </user>
+    <user name="杜俊国" id="430111198610010750" customerNO="ECIF0059" cardNO="62170079" mobile="13811131573,-" level="2" email="woaini_zhaoqi@163.com" nebor="2">
+        <son name="袁满" id="510104197601230278" customerNO="ECIF0034" cardNO="62170054" mobile="13331119399,-" level="1" linkType="CARDNO,MOBILE" email="manyuan123@vip.sina.com" />
+        <father name="袁满" id="510104197601230278" customerNO="ECIF0034" cardNO="62170054" mobile="13331119399,-" level="1" linkType="CARDNO,MOBILE" email="manyuan123@vip.sina.com" />
+    </user>
+    <user name="谷鹏" id="210602197910273515" customerNO="ECIF0060" cardNO="62170080" mobile="13520704123,-" level="2" email="gupeng@mail.buct.edu.cn" nebor="2">
+        <son name="于泳" id="510212197001300311" customerNO="ECIF0033" cardNO="62170053" mobile="13020151291,-" level="1" linkType="CARDNO,MOBILE" email="hnch@sohu.com" />
+        <father name="于泳" id="510212197001300311" customerNO="ECIF0033" cardNO="62170053" mobile="13020151291,-" level="1" linkType="CARDNO,MOBILE" email="hnch@sohu.com" />
+    </user>
+    <user name="秦佳" id="320281198708225035" customerNO="ECIF0061" cardNO="62170081" mobile="13851728224,-" level="2" email="qinjia1987js@163.com" nebor="2">
+        <son name="王蓉蓉" id="610104198212296167" customerNO="ECIF0032" cardNO="62170052" mobile="15809225561,029-88228743" level="1" linkType="CARDNO,MOBILE" email="228302198@qq.com" />
+        <father name="王蓉蓉" id="610104198212296167" customerNO="ECIF0032" cardNO="62170052" mobile="15809225561,029-88228743" level="1" linkType="CARDNO,MOBILE" email="228302198@qq.com" />
+    </user>
+    <user name="谷晨蕊" id="110102198101160020" customerNO="ECIF0062" cardNO="62170082" mobile="13511071926,-" level="2" email="gcr816@hotmail.com" nebor="2">
+        <son name="周建华" id="320602196511302041" customerNO="ECIF0031" cardNO="62170051" mobile="13817627228,021-52682026" level="1" linkType="CARDNO,MOBILE" email="hd6418@hotmail.com" />
+        <father name="周建华" id="320602196511302041" customerNO="ECIF0031" cardNO="62170051" mobile="13817627228,021-52682026" level="1" linkType="CARDNO,MOBILE" email="hd6418@hotmail.com" />
+    </user>
+    <user name="王炎" id="320811198401011514" customerNO="ECIF0063" cardNO="62170083" mobile="13805239035,0517-83669209" level="2" email="murenwy@163.com" nebor="2">
+        <son name="王洵" id="320502197310210545" customerNO="ECIF0030" cardNO="62170050" mobile="13915503066,-" level="1" linkType="CARDNO,MOBILE" email="zd.wh@163.com" />
+        <father name="王洵" id="320502197310210545" customerNO="ECIF0030" cardNO="62170050" mobile="13915503066,-" level="1" linkType="CARDNO,MOBILE" email="zd.wh@163.com" />
+    </user>
+    <user name="李亚辉" id="43010319651007167X" customerNO="ECIF0064" cardNO="62170084" mobile="13510381278,-" level="2" email="lyahui@sogou.com" nebor="2">
+        <son name="吴晓龙" id="360430198405111111" customerNO="ECIF0029" cardNO="62170049" mobile="13916082774,-" level="1" linkType="CARDNO,MOBILE" email="velax_wu@sohu.com" />
+        <father name="吴晓龙" id="360430198405111111" customerNO="ECIF0029" cardNO="62170049" mobile="13916082774,-" level="1" linkType="CARDNO,MOBILE" email="velax_wu@sohu.com" />
+    </user>
+    <user name="张百刚" id="32030219760511201x" customerNO="ECIF0065" cardNO="62170085" mobile="13327946880,-" level="2" email="xzzhbg@126.com" nebor="2">
+        <son name="陈妍" id="210212831019104" customerNO="ECIF0028" cardNO="62170048" mobile="15942693196,-" level="1" linkType="CARDNO,MOBILE" email="cy_1019@hotmail.com" />
+        <father name="陈妍" id="210212831019104" customerNO="ECIF0028" cardNO="62170048" mobile="15942693196,-" level="1" linkType="CARDNO,MOBILE" email="cy_1019@hotmail.com" />
+    </user>
+    <user name="范玲敏" id="320684198011174947" customerNO="ECIF0066" cardNO="62170086" mobile="13921662365,0513-82211065" level="2" email="fan2210@sina.com" nebor="2">
+        <son name="徐争鸣" id="420106196809074071" customerNO="ECIF0027" cardNO="62170047" mobile="13396056892,027-88112719" level="1" linkType="CARDNO,MOBILE" email="zhengming_xu520@sina.com.cn" />
+        <father name="徐争鸣" id="420106196809074071" customerNO="ECIF0027" cardNO="62170047" mobile="13396056892,027-88112719" level="1" linkType="CARDNO,MOBILE" email="zhengming_xu520@sina.com.cn" />
+    </user>
+    <user name="刘泓" id="320106630913202" customerNO="ECIF0067" cardNO="62170087" mobile="13913010929,-" level="2" email="li8337@126.com" nebor="2">
+        <son name="潘国鹏" id="370683198103193217" customerNO="ECIF0026" cardNO="62170046" mobile="13561928865,0633-2212069" level="1" linkType="CARDNO,MOBILE" email="ipavee@163.com" />
+        <father name="潘国鹏" id="370683198103193217" customerNO="ECIF0026" cardNO="62170046" mobile="13561928865,0633-2212069" level="1" linkType="CARDNO,MOBILE" email="ipavee@163.com" />
+    </user>
+    <user name="刘博莹" id="411323198410140028" customerNO="ECIF0068" cardNO="62170088" mobile="13663057666,-" level="2" email="lby2621@163.com" nebor="2">
+        <son name="jingjing" id="420105197404030028" customerNO="ECIF0025" cardNO="62170045" mobile="15871377772,027-88219588" level="1" linkType="CARDNO,MOBILE" email="74jingjing@163.com" />
+        <father name="jingjing" id="420105197404030028" customerNO="ECIF0025" cardNO="62170045" mobile="15871377772,027-88219588" level="1" linkType="CARDNO,MOBILE" email="74jingjing@163.com" />
+    </user>
+    <user name="曹彦彬" id="150425197812160039" customerNO="ECIF0069" cardNO="62170089" mobile="13910309687,-" level="2" email="allen2039@163.com" nebor="2">
+        <son name="孙旸" id="310104198405232812" customerNO="ECIF0024" cardNO="62170044" mobile="13764090424,-" level="1" linkType="CARDNO,MOBILE" email="gemini9991@gmail.com" />
+        <father name="孙旸" id="310104198405232812" customerNO="ECIF0024" cardNO="62170044" mobile="13764090424,-" level="1" linkType="CARDNO,MOBILE" email="gemini9991@gmail.com" />
+    </user>
+    <user name="charlie chu" id="483823476" customerNO="ECIF0071" cardNO="62170091" mobile="18018674090,-02164641680" level="2" email="chuchar123@yahoo.com" nebor="2">
+        <son name="裴芬" id="0571-125321" customerNO="ECIF0022" cardNO="62170042" mobile="571125,0571-28990084" level="1" linkType="CARDNO,MOBILE" email="fenpi8499@sina.com " />
+        <father name="裴芬" id="0571-125321" customerNO="ECIF0022" cardNO="62170042" mobile="571125,0571-28990084" level="1" linkType="CARDNO,MOBILE" email="fenpi8499@sina.com " />
+    </user>
+    <user name="赵梦溪" id="410103198303082427" customerNO="ECIF0072" cardNO="62170092" mobile="13608691642,-" level="2" email="296170582@qq.com" nebor="2">
+        <son name="陈效" id="0571-124321" customerNO="ECIF0021" cardNO="62170041" mobile="571124,0571-89986970" level="1" linkType="CARDNO,MOBILE" email="llcx2002@163.com " />
+        <father name="陈效" id="0571-124321" customerNO="ECIF0021" cardNO="62170041" mobile="571124,0571-89986970" level="1" linkType="CARDNO,MOBILE" email="llcx2002@163.com " />
+    </user>
+    <user name="胡美娜" id="340402198402081229" customerNO="ECIF0073" cardNO="62170093" mobile="13601320994,-" level="2" email="haoxinqing2010@163.com" nebor="2">
+        <son name="王惠兰" id="0571-120321" customerNO="ECIF0020" cardNO="62170040" mobile="571120,0571-22817277" level="1" linkType="CARDNO,MOBILE" email="amanda@ztex.cn " />
+        <father name="王惠兰" id="0571-120321" customerNO="ECIF0020" cardNO="62170040" mobile="571120,0571-22817277" level="1" linkType="CARDNO,MOBILE" email="amanda@ztex.cn " />
+    </user>
+    <user name="徐旸" id="430103197302221519" customerNO="ECIF0074" cardNO="62170094" mobile="13925066016,-" level="2" email="xutommy1219@yahoo.com.cn" nebor="2">
+        <son name="陈曦" id="0531-101321" customerNO="ECIF0019" cardNO="62170039" mobile="531101,0531-82963478*6350" level="1" linkType="CARDNO,MOBILE" email="chen_xi@cvicse.com" />
+        <father name="陈曦" id="0531-101321" customerNO="ECIF0019" cardNO="62170039" mobile="531101,0531-82963478*6350" level="1" linkType="CARDNO,MOBILE" email="chen_xi@cvicse.com" />
+    </user>
+    <user name="顾佳佳" id="310109830919456" customerNO="ECIF0075" cardNO="62170095" mobile="13817353288,-" level="2" email="ahergongzhu@hotmail.com" nebor="2">
+        <son name="叶鹏来" id="0510-106321" customerNO="ECIF0018" cardNO="62170038" mobile="510106,0510-81018859" level="1" linkType="CARDNO,MOBILE" email="ypl@bcstainless.com " />
+        <father name="叶鹏来" id="0510-106321" customerNO="ECIF0018" cardNO="62170038" mobile="510106,0510-81018859" level="1" linkType="CARDNO,MOBILE" email="ypl@bcstainless.com " />
+    </user>
+    <user name="戚长鹤" id="362101198112180010" customerNO="ECIF0076" cardNO="62170096" mobile="13870774167,-" level="2" email="qchaini@163.com" nebor="2">
+        <son name="冯彬玲" id="029-107321" customerNO="ECIF0017" cardNO="62170037" mobile="29107,029-87669400-211" level="1" linkType="CARDNO,MOBILE" email="sarah_feng@newsoft.com.cn " />
+        <father name="冯彬玲" id="029-107321" customerNO="ECIF0017" cardNO="62170037" mobile="29107,029-87669400-211" level="1" linkType="CARDNO,MOBILE" email="sarah_feng@newsoft.com.cn " />
+    </user>
+    <user name="陈伟" id="320107197208164212" customerNO="ECIF0077" cardNO="62170097" mobile="13816333169,-" level="2" email="roger0816@126.com" nebor="2">
+        <son name="张峥" id="027-108321" customerNO="ECIF0016" cardNO="62170036" mobile="27108,027-87196373" level="1" linkType="CARDNO,MOBILE" email="zhangz@hbsanhuan.com.cn " />
+        <father name="张峥" id="027-108321" customerNO="ECIF0016" cardNO="62170036" mobile="27108,027-87196373" level="1" linkType="CARDNO,MOBILE" email="zhangz@hbsanhuan.com.cn " />
+    </user>
+    <user name="姜艳彬" id="230521198112022713" customerNO="ECIF0078" cardNO="62170098" mobile="13795189595,-" level="2" email="jyb_613@163.com" nebor="2">
+        <son name="陈瑶" id="021-345321" customerNO="ECIF0015" cardNO="62170035" mobile="21345,021-64400575" level="1" linkType="CARDNO,MOBILE" email="" />
+        <father name="陈瑶" id="021-345321" customerNO="ECIF0015" cardNO="62170035" mobile="21345,021-64400575" level="1" linkType="CARDNO,MOBILE" email="" />
+    </user>
+    <user name="徐磊" id="210202198110151213" customerNO="ECIF0079" cardNO="62170099" mobile="13940990151,0411-82666567" level="2" email="leo_xu@dl.cn" nebor="2">
+        <son name="蒋昭红" id="021-293321" customerNO="ECIF0014" cardNO="62170034" mobile="13801837369,021-62476887" level="1" linkType="CARDNO,MOBILE" email="jiangzhaohong@51shsd.com" />
+        <father name="蒋昭红" id="021-293321" customerNO="ECIF0014" cardNO="62170034" mobile="13801837369,021-62476887" level="1" linkType="CARDNO,MOBILE" email="jiangzhaohong@51shsd.com" />
+    </user>
+    <user name="薛立伟" id="22072419811019021x" customerNO="ECIF0080" cardNO="62170100" mobile="13810348400,-" level="2" email="5868322@163.com" nebor="2">
+        <son name="张彗" id="021-243321" customerNO="ECIF0013" cardNO="62170033" mobile="21243,021-68860643*8103" level="1" linkType="CARDNO,MOBILE" email="yvonne.zhang@cn.bureauveritas.com " />
+        <father name="张彗" id="021-243321" customerNO="ECIF0013" cardNO="62170033" mobile="21243,021-68860643*8103" level="1" linkType="CARDNO,MOBILE" email="yvonne.zhang@cn.bureauveritas.com " />
+    </user>
+    <user name="李茂瑞" id="372833731115061" customerNO="ECIF0081" cardNO="62170101" mobile="15980920503,-" level="2" email="HEROLI0988@YAHOO.COM.CN" nebor="2">
+        <son name="王莹" id="021-224321" customerNO="ECIF0012" cardNO="62170032" mobile="21224,021-69136448/247" level="1" linkType="CARDNO,MOBILE" email="y.wang@argus.net.cn" />
+        <father name="王莹" id="021-224321" customerNO="ECIF0012" cardNO="62170032" mobile="21224,021-69136448/247" level="1" linkType="CARDNO,MOBILE" email="y.wang@argus.net.cn" />
+    </user>
+    <user name="童秋君" id="33022717790814056" customerNO="ECIF0082" cardNO="62170102" mobile="13989308173,-" level="2" email="tongchristin@hotmail.com" nebor="2">
+        <son name="孙恒" id="021-215321" customerNO="ECIF0011" cardNO="62170031" mobile="13918381512,021-50202418" level="1" linkType="CARDNO,MOBILE" email="sunheng@jrseac.com" />
+        <father name="孙恒" id="021-215321" customerNO="ECIF0011" cardNO="62170031" mobile="13918381512,021-50202418" level="1" linkType="CARDNO,MOBILE" email="sunheng@jrseac.com" />
+    </user>
+</info>

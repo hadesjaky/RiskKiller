@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>addtab.png</file>
+        <file>copy.png</file>
+        <file>cursor-closedhand.png</file>
+        <file>cursor-openhand.png</file>
+        <file>delete.png</file>
+        <file>hidebg.png</file>
+        <file>linguist-fileopen.png</file>
+        <file>linguist-filesave.png</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>pointer.png</file>
+        <file>refresh.png</file>
+        <file>refresh-24.png</file>
+        <file>save.png</file>
+        <file>saveas.png</file>
+        <file>zoomin.png</file>
+        <file>zoomout.png</file>
+        <file>debug.png</file>
+        <file>appIcon.ico</file>
+        <file>anticlockwise.png</file>
+        <file>clockwise.png</file>
+    </qresource>
+</RCC>

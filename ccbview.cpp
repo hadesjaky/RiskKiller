@@ -5,6 +5,7 @@
 #include <QApplication>
 #include <QMessageBox>
 #include <QMenu>
+#include <QTime>
 #include <QDebug>
 
 #define SSTEP 1.1

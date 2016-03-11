@@ -116,6 +116,7 @@
     <addaction name="separator"/>
     <addaction name="palletAct"/>
     <addaction name="mergeAct"/>
+    <addaction name="separator"/>
    </widget>
    <widget class="QMenu" name="helpMenu">
     <property name="title">
